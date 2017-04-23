@@ -1,0 +1,428 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	position:relative;
+}
+
+#full-page{
+	width:1438px;
+	
+	margin:auto;
+	background-color:white;
+}
+#contact-us{
+	width:1438px;
+	height:1000px;
+	margin:auto;
+	background-color:white;
+}
+#full-page a{
+	text-decoration:none;
+	margin-right:20px;
+	color:#E76AEF;
+	font-weight:bold;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+}
+
+#header{
+	height:166px;
+	margin:auto;
+	background-color:white;
+}
+#header-top{
+	height:69px;
+	margin:auto;
+	background-color:#F1BFE6;
+}
+#header-bar{
+	height:38px;
+	background-color:#F3B6EE;
+	
+}
+#header-bottom{
+	width:100%;
+	height:97px;
+}
+#header-bottom-menu{
+	height:100%;
+	margin-left:80px;
+	width:460px;
+	float:left;
+}
+#header-bottom-menu a{
+		font-family:Franklin Gothic Demi;
+		color:#787070;
+		font-style:oblique;
+		font-size:22px;
+		font-weight:bolder;
+		padding-bottom:10px;
+}
+#header-bottom-tag{
+	height:100%;
+	width:380px;
+	margin-left:80px;
+	float:left;
+}
+#header-bottom-socialmedia{
+	height:100%;
+	margin-left:38px;
+	width:400px;
+	float:left;
+}
+
+/**
+#header-bottom-menu{
+	margin-left:84px;
+	margin-top:10px;
+
+}
+#header-bottom-menu a{
+		margin-right:20px;
+		font-family:Franklin Gothic Demi;
+		color:black;
+		font-style:italic;
+		font-size:22px;
+		font-weight:lighter;
+		padding-bottom:10px;
+}
+#header-bottom-menu img{
+		margin-left:150px;
+}
+#header-bottom-menu a img{
+		margin-left:60px;
+}
+**/
+
+#phone-icon{
+	margin-left:82px;
+	background-image:url(../images/phone-icon.png);
+	background-repeat:no-repeat;
+	padding-top:10px;
+	padding-left:37px;
+	background-position:0px 15px;
+	float:left;
+	}
+#top-bar-spacing{	
+	float:left;
+	padding-top:10px;
+	padding-left:37px;
+	margin-left:500px;
+}
+
+
+#main-section{
+	height:3812px;
+	width:100%;
+	background-color:white;
+}
+#about_us{
+	height:340px;
+	width:100%;
+	background-color:#9A9191;
+	}
+#about_us_left{
+	width:500px;
+	height:100%;
+	float:left;
+	}	
+#about_us_right{
+	width:800px;
+	height:100%;
+	float:left;
+
+	}
+#main-top-poster{
+	width:100%;
+	height:692px;
+	margin-bottom:66px;
+}
+
+#contact-us{
+	height:350px;
+	width:100%;
+	background-color:#8C8787;
+	
+	}
+#contact-picture{
+	height:100%;
+	width:300px;
+	float:left;
+	}	
+#contact-us-left{
+	height:100%;
+	width:600px;
+	margin-left:30px;
+	float:left;
+	}	
+#contact-us-right{
+	height:100%;
+	width:300px;
+	float:left;	
+	}	
+.contact-padding{
+	margin-left:30px;
+	}
+#message-spacing{
+	margin-left:70px;
+	}
+	
+#product_detail{
+	height:340px;
+	width:100%;
+	}
+#product_left{
+	width:350px;
+	height:100%;
+	float:left;
+	}	
+#product_right{
+	width:800px;
+	height:100%;
+	float:left;
+
+	}	
+	
+	
+	
+	
+#main-buttons{
+	width:100%;
+	height:100px;
+	margin-bottom:107px;
+	margin-left:45px;
+	margin-top:10px;
+}
+#handpicked{
+	width:90%;
+	height:20px;
+	text-align:center;
+	margin-left:80px;
+	font-weight:bold;
+	font-size:30px;
+	margin-bottom:69px;
+}
+#handpicked img{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+#clothe-offers{
+	height:819px;
+	width:100%;
+	margin-bottom:100px;
+}
+#picture14{
+	padding-left:35px;
+	width:450px;
+	height:100%;
+	float:left;
+}
+#picture14 img{
+	margin-bottom:14px;
+}
+#picture2{
+	height:100%;
+	width:480px;
+	margin-left:1px;
+	float:left;
+}
+#picture35{
+	height:100%;
+	width:470px;
+	float:left;
+}
+#picture35 img{
+	margin-bottom:14px;
+	padding-left:40px;
+}
+
+/**#clothe-offers img{
+	
+	float:left;
+	margin:auto;
+	margin-bottom:109px;	
+}
+#clothe-offers a img{
+	
+	float:left;
+	margin:auto;
+	margin-bottom:22px;	
+}
+**/
+#summer-collection{
+	width:90%;
+	height:20px;
+	text-align:center;
+	margin-left:80px;
+	font-weight:bold;
+	font-size:30px;
+	margin-bottom:69px;
+}
+#summer-collection img{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+#summer-products{
+	width:100%;
+	height:713px;
+	margin-bottom:120px;
+}
+#summer-products-row1{
+	height:100%;
+	width:321px;
+	margin-left:72px;
+	float:left;
+}
+#summer-products-row1{
+	height:100%;
+	width:321px;
+	margin-left:72px;
+	float:left;
+}
+#summer-products-row1 img{
+	margin-bottom:12px;
+}
+
+#summer-products-row2{
+	height:100%;
+	width:321px;
+	padding-right:4px;
+	float:left;
+}
+#summer-products-row2 img{
+	margin-bottom:12px;
+}
+
+#summer-products-row3{
+	height:100%;
+	width:321px;
+	float:left;
+}
+#summer-products-row3 img{
+	margin-bottom:9px;
+}
+
+#summer-products-row4{
+	height:100%;
+	width:321px;
+	float:left;
+}
+#summer-products-row4 img{
+	margin-bottom:15px;
+}
+
+#our-brand{
+	width:90%;
+	height:20px;
+	text-align:center;
+	margin-left:80px;
+	font-weight:bold;
+	font-size:30px;
+	margin-bottom:140px;
+}
+#our-brand img{
+	margin-left:100px;
+	margin-right:100px;
+}
+
+#brands{
+	width:100%;
+	height:150px;
+	margin-left:130px;
+	margin-bottom:60px;
+}
+#brands a{
+		margin-right:70px;
+}
+#customer-says{
+	width:90%;
+	height:20px;
+	text-align:center;
+	margin-left:80px;
+	font-weight:bold;
+	font-size:30px;
+	margin-bottom:75px;
+}
+#customer-says img{
+	margin-left:100px;
+	margin-right:100px;
+}
+#main-bottom{
+	width:100%;
+}
+
+#customer-says{
+	
+	padding-top:100px;
+}
+
+#footer{
+	height:690px;
+	margin:auto;
+	background-color:black;
+	color:white;
+	 
+}
+#footer-shops{
+	width:270px;
+	height:100%;
+	float:left;
+}
+#footer-information{
+	width:270px;
+	height:100%;
+	float:left;
+}
+#footer-customer-service{
+	width:270px;
+	height:100%;
+	float:left;
+	margin-right:128px;
+}
+#social-apps{
+	width:500px;
+	height:100%;
+	float:left;
+	padding-top:70px;
+	margin-bottom:50px;
+	font-size:20px;
+	font-weight:bold;
+}
+
+.headings{
+	padding-top:70px;
+	text-align:center;
+	margin-bottom:50px;
+	font-size:20px;
+	font-weight:bold;
+}
+#footer p{
+	text-align:center;
+	color:#B09798
+}
+#footer a{
+	color:#B09798
+}
+
+
+/**#footer h{
+	padding-left:80px;
+	margin-left:50px;
+	color:white;
+	font-size:26px;
+	font-weight:bold;
+}
+#footer a h{
+	
+	padding-top:70px;
+	padding-left:80px;
+	padding-right:40px;
+	color:white;
+	font-size:16px;
+	font-weight:bold;
+}
+**/
+
+
